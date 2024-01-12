@@ -4,11 +4,11 @@ asgiref
 bcrypt
 cffi
 click
-cryptography=
-ecdsa=
-fastapi=
+cryptography
+ecdsa
+fastapi
 greenlet
-h11=
+h11
 id
 Jinja2
 MarkupSafe
