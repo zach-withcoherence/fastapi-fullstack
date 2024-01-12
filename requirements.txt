@@ -3,3 +3,4 @@ SQLAlchemy
 uvicorn
 psycopg2
 passlib
+jose
